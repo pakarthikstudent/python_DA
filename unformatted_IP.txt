@@ -1,0 +1,7 @@
+prodID,prodName,vendor,cost,salescount
+101,prodA,V1,1000,45
+102:prodB|V2:2000-55
+103:prodC~V3:3000:32
+104,prodD|V4:,10
+105:prodX|V5:1000-55
+106:prodY~V6:,20
